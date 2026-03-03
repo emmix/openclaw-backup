@@ -1,0 +1,22 @@
+# 敏感文件
+*.json.bak*
+credentials/
+logs/
+delivery-queue/
+*.log
+
+# 临时文件
+.DS_Store
+Thumbs.db
+
+# 备份文件
+*.bak
+*~
+
+# 节点模块（如果有）
+node_modules/
+
+# 敏感凭据
+auth-profiles.json
+*.key
+*.pem
