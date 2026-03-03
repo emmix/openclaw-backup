@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "a4c8198b-1a1a-42f8-94a3-52dc33495774",
-    "updatedAt": 1772546615400,
+    "updatedAt": 1772547413797,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -120,7 +120,7 @@
     "contextTokens": 204800,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1772546373334,
+      "generatedAt": 1772547195231,
       "sessionId": "a4c8198b-1a1a-42f8-94a3-52dc33495774",
       "sessionKey": "agent:main:main",
       "provider": "bailian",
@@ -133,9 +133,9 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 27905,
+        "chars": 27904,
         "projectContextChars": 13589,
-        "nonProjectContextChars": 14316
+        "nonProjectContextChars": 14315
       },
       "injectedWorkspaceFiles": [
         {
@@ -443,12 +443,13 @@
         ]
       }
     },
-    "inputTokens": 48184,
-    "outputTokens": 877,
-    "cacheRead": 254,
+    "inputTokens": 57825,
+    "outputTokens": 1133,
+    "cacheRead": 59070,
     "cacheWrite": 0,
     "totalTokensFresh": true,
-    "totalTokens": 48438
+    "totalTokens": 59282,
+    "reasoningLevel": "on"
   },
   "agent:main:feishu:direct:oc_a1528993dea63aaf0d6da7b731320637": {
     "origin": {
